@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "webpack --mode production",
+    "watch": "webpack --watch --mode production",
+    "start": "webpack-dev-server --open"
+  },
+  "devDependencies": {
+    "webpack": "next",
+    "webpack-cli": "^2.0.4"
+  }
+}
