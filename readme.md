@@ -14,7 +14,7 @@ gradientColor(startColor, endColor, step)
 
 结束颜色
 
-### step
+#### step
 
 分割次数
 
